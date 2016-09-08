@@ -3,7 +3,10 @@ With a wider range than most other freelance platforms offer, Professional Hired
 
 Technologies used:-
 1.	Java
+
 2.	Android Platform
+
 3.	MySql PHP MyAdmin
+
 4.	PHP files
 
